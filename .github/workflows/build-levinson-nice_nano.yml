@@ -10,4 +10,3 @@ jobs:
     with:
       board: '["nice_nano"]'
       shield: '["levinson","levinson"]'
-      kconfig: '[]'
